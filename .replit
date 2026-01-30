@@ -1,2 +1,6 @@
 language = "java10"
 run = "bash run.sh"
+modules = ["java-graalvm22.3", "bash"]
+
+[nix]
+channel = "stable-25_05"
