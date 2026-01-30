@@ -20,10 +20,10 @@
 
 ## Список завдань
 7. Знайти всі прості дільники заданого шестизначного числа (метод ```Calculate``` має повернути рядок - список таких чисел через кому)
-
+## Результат
 <img width="328" height="27" alt="image" src="https://github.com/user-attachments/assets/9e838e5e-a9d5-4b91-8d85-a562e061f068" />
-
+## Код з Exercise.java
 <img width="482" height="795" alt="image" src="https://github.com/user-attachments/assets/4e1e478b-deca-4b2c-909c-df6fc664bdd8" />
-
+## Код з TestResult.java
 <img width="786" height="267" alt="image" src="https://github.com/user-attachments/assets/888d3c83-7439-4786-987e-d1f6b0da86dd" />
 
